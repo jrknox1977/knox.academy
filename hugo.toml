@@ -1,3 +1,20 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://knox.academy'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Knox Academy'
+theme = 'hugo-blog-awesome-main'
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/jrknox1977"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/JR_Knox1977"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/joshua-knox-b392549b/"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
